@@ -1,0 +1,19 @@
+# ninja log v5
+20	757	0	CMakeFiles/opensl_audio.dir/java_interface_wrap.cpp.o	df8f667911717c4b
+10	834	0	CMakeFiles/opensl_audio.dir/opensl_example.c.o	1251b2abf61907e7
+7	854	0	CMakeFiles/opensl_audio.dir/audio_recode_play.cpp.o	fa57abf4cd8e0038
+0	859	0	CMakeFiles/opensl_audio.dir/opensl_io.c.o	2bc9983db80e6916
+23	915	0	CMakeFiles/opensl_audio.dir/opensl_io2.c.o	6b05c7d1e3ebf3a5
+15	1015	0	CMakeFiles/opensl_audio.dir/opensl_io3.c.o	4c4fa86ccbd470ed
+11	496	0	CMakeFiles/opensl_audio.dir/opensl_example.c.o	1251b2abf61907e7
+15	525	0	CMakeFiles/opensl_audio.dir/java_interface_wrap.cpp.o	df8f667911717c4b
+1	545	0	CMakeFiles/opensl_audio.dir/audio_recode_play.cpp.o	fa57abf4cd8e0038
+13	553	0	CMakeFiles/opensl_audio.dir/opensl_io3.c.o	4c4fa86ccbd470ed
+4	560	0	CMakeFiles/opensl_audio.dir/opensl_io2.c.o	6b05c7d1e3ebf3a5
+6	561	0	CMakeFiles/opensl_audio.dir/opensl_io.c.o	2bc9983db80e6916
+14	811	0	CMakeFiles/opensl_audio.dir/java_interface_wrap.cpp.o	df8f667911717c4b
+12	833	0	CMakeFiles/opensl_audio.dir/opensl_example.c.o	1251b2abf61907e7
+10	838	0	CMakeFiles/opensl_audio.dir/opensl_io.c.o	2bc9983db80e6916
+3	841	0	CMakeFiles/opensl_audio.dir/opensl_io3.c.o	4c4fa86ccbd470ed
+6	843	0	CMakeFiles/opensl_audio.dir/audio_recode_play.cpp.o	fa57abf4cd8e0038
+8	857	0	CMakeFiles/opensl_audio.dir/opensl_io2.c.o	6b05c7d1e3ebf3a5

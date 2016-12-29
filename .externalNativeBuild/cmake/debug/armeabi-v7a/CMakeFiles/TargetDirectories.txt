@@ -1,0 +1,3 @@
+D:/slack/android/audio/google_audio/audio_foreign/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/opensl_audio.dir
+D:/slack/android/audio/google_audio/audio_foreign/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/slack/android/audio/google_audio/audio_foreign/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

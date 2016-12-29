@@ -1,0 +1,72 @@
+
+{
+	"buildFiles" : 
+	[
+		"D:/slack/android/audio/google_audio/audio_foreign/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"D:\\Users\\slack\\AppData\\Local\\Android\\sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build D:\\slack\\android\\audio\\google_audio\\audio_foreign\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"opensl_audio-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opensl_audio",
+			"buildCommand" : "D:\\Users\\slack\\AppData\\Local\\Android\\sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build D:\\slack\\android\\audio\\google_audio\\audio_foreign\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target opensl_audio",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/platforms/android-23/arch-arm  -Dopensl_audio_EXPORTS -isystem D:\\Users\\slack\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\Users\\slack\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem D:\\Users\\slack\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -Os -DNDEBUG -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "D:/slack/android/audio/google_audio/audio_foreign/src/main/cpp/audio_recode_play.cpp",
+					"workingDirectory" : "D:/slack/android/audio/google_audio/audio_foreign/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/platforms/android-23/arch-arm -Dopensl_audio_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c99 -Wall -Os -DNDEBUG -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/slack/android/audio/google_audio/audio_foreign/src/main/cpp/opensl_io.c",
+					"workingDirectory" : "D:/slack/android/audio/google_audio/audio_foreign/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/platforms/android-23/arch-arm -Dopensl_audio_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c99 -Wall -Os -DNDEBUG -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/slack/android/audio/google_audio/audio_foreign/src/main/cpp/opensl_example.c",
+					"workingDirectory" : "D:/slack/android/audio/google_audio/audio_foreign/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/platforms/android-23/arch-arm  -Dopensl_audio_EXPORTS -isystem D:\\Users\\slack\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\Users\\slack\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem D:\\Users\\slack\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -Os -DNDEBUG -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "D:/slack/android/audio/google_audio/audio_foreign/src/main/cpp/java_interface_wrap.cpp",
+					"workingDirectory" : "D:/slack/android/audio/google_audio/audio_foreign/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/platforms/android-23/arch-arm -Dopensl_audio_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c99 -Wall -Os -DNDEBUG -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/slack/android/audio/google_audio/audio_foreign/src/main/cpp/opensl_io2.c",
+					"workingDirectory" : "D:/slack/android/audio/google_audio/audio_foreign/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/platforms/android-23/arch-arm -Dopensl_audio_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c99 -Wall -Os -DNDEBUG -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/slack/android/audio/google_audio/audio_foreign/src/main/cpp/opensl_io3.c",
+					"workingDirectory" : "D:/slack/android/audio/google_audio/audio_foreign/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "D:/slack/android/audio/google_audio/audio_foreign/build/intermediates/cmake/release/obj/armeabi-v7a/libopensl_audio.so",
+			"toolchain" : "472182017"
+		}
+	},
+	"toolchains" : 
+	{
+		"472182017" : 
+		{
+			"cCompilerExecutable" : "D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/Users/slack/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
